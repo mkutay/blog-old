@@ -127,7 +127,7 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : e74a97fc748bd2fc3419# GitHub Application Client ID
+    clientID    : e74a97fc748bd2fc3419 # GitHub Application Client ID
     clientSecret: fcd95a6ec7aa581c1af366e20b39d050d0cac8ad # GitHub Application Client Secret
     repository  : MKutay/blog-comments # GitHub repo
     owner       : MKutay # GitHub repo owner
