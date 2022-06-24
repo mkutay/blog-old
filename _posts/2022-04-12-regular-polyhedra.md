@@ -31,4 +31,4 @@ All regular polyhedra is made out of regular polygons. Therefore, it is needed t
 
 **Group 1.** _Convex n-gon_. Symbol is $$\{n\}$$, defined for each $$n \geq 3$$. If $$n$$ were $$2$$ it would be a line segment and not a regular polygon.
 
-![Image](/assets/posts/regular-polyhedra/convex-polygons){:.border}
+![Image](/assets/posts/regular-polyhedra/convex-polygons.png){:.border}
