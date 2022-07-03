@@ -1,6 +1,6 @@
 ---
 title: "An Investigation On Regular Polyhedra"
-tags: english mathematics geometry
+tags: english mathematics
 key: "regularpolyhedra"
 # article_header:
 #  type: cover
