@@ -20,9 +20,9 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Biscuit Blog
+title   : Kutay's Blog
 description: > # this means to ignore newlines until "Language & timezone"
-  A blog to post different kind of stuff that we write.
+  A blog to post different kind of stuff that I write.
 
 
 ## => Language and Timezone
@@ -39,7 +39,7 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
-  email     : mkutaybozkurt@vivaldi.net
+  email     : mkutaybozkurt@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
